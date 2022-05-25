@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swaleha khan
-- 🌱 I’m currently learning Backend development from IIT Roorkee in association with Great learning.
+- 🌱 I’m currently learning Backend Software development from IIT Roorkee in association with Great learning.
 - 💞️ I’m looking to collaborate on Back End Software development projects
 
 
